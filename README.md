@@ -83,6 +83,8 @@ See full query in `Pay_equity_queries.sql`
 🔍**Insight:** Level 1 shows an 11% gap favoring males. 
 Some levels lack both genders, so the pay gap is marked as “N/A.”
 
+
+
 📌 *Created by Olga Buriakova*  
 💼 [LinkedIn](https://www.linkedin.com/in/olga-buriakova-a13163128/) | 🌐 [Portfolio](https://obu541.github.io/Portfolio/)
 
