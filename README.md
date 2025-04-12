@@ -25,11 +25,11 @@ All queries are based on a manually entered mock dataset designed to simulate a 
 
 ## 📁 Files Included
 
-- `pay_equity_queries.sql` – all queries used in this project
-- `avg_salary_by_gender.csv` – result of gender-based salary analysis
-- `avg_salary_by_level.csv` – result of job level salary analysis
-- `gender_count_by_level.csv` – employee counts by level and gender
-- `pay_gap_by_level.csv` – calculated pay gap percentages
+- `Pay_equity_queries.sql` – all queries used in this project
+- `Average Salary by Gender.csv` – result of gender-based salary analysis  
+- `Average Salary by Job Level.csv` – result of job level salary analysis
+- `Average Salary by Gender and Job Level.csv` – result of gender and job level salary analysis
+- `Pay Gap Between Genders at Each Job Level.csv` – calculated pay gap percentages 
 
 ---
 
@@ -85,7 +85,5 @@ Some levels lack both genders, so the pay gap is marked as “N/A.”
 
 📌 *Created by Olga Buriakova*  
 💼 [LinkedIn](https://www.linkedin.com/in/olga-buriakova-a13163128/) | 🌐 [Portfolio](https://obu541.github.io/Portfolio/)
-
-
 
 
